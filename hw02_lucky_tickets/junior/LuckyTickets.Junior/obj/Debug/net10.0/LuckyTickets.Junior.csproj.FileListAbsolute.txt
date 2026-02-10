@@ -1,0 +1,15 @@
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.AssemblyInfoInputs.cache
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.AssemblyInfo.cs
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.csproj.CoreCompileInputs.cache
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.sourcelink.json
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/bin/Debug/net10.0/LuckyTickets.Junior
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/bin/Debug/net10.0/LuckyTickets.Junior.deps.json
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/bin/Debug/net10.0/LuckyTickets.Junior.runtimeconfig.json
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/bin/Debug/net10.0/LuckyTickets.Junior.dll
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/bin/Debug/net10.0/LuckyTickets.Junior.pdb
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.dll
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/refint/LuckyTickets.Junior.dll
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.pdb
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/LuckyTickets.Junior.genruntimeconfig.cache
+/Users/zhana.tech/code/otus-algorithms-homeworks/hw02_lucky_tickets/junior/LuckyTickets.Junior/obj/Debug/net10.0/ref/LuckyTickets.Junior.dll
