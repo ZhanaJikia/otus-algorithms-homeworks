@@ -2,6 +2,11 @@
 
 ## Overview
 This is a solution for the "Lucky Tickets" algorithm problem at the junior level.
+<p align="center">
+  <img width="244" height="127" alt="Screenshot 2026-02-10 at 17 21 42" src="https://github.com/user-attachments/assets/260c858e-00f7-4f88-9bf8-7480177ab4b5" />
+</p>
+
+
 
 A lucky ticket is a 6-digit number where the sum of the first three digits equals the sum of the last three digits.
 
@@ -28,5 +33,3 @@ The program displays:
 ## Time Complexity
 O(n⁵) where n = 10 (digits 0-9)
 
-## Note
-There is a typo in the code: `Conslole.WriteLine` should be `Console.WriteLine`.
