@@ -13,34 +13,6 @@ otus-algorithms-homeworks/
 └── README.md
 ```
 
-## Homeworks
-
-### HW02: Lucky Tickets
-
-A lucky ticket is a 6-digit number where the sum of the first three digits equals the sum of the last three digits.
-
-**Task:** Count all lucky tickets from 000000 to 999999.
-
-#### Junior Level
-- **Location:** `hw02_lucky_tickets/junior/`
-- **Language:** C# (.NET)
-- **Algorithm:** Brute force approach with nested loops
-- **Time Complexity:** O(n⁵)
-
-To run:
-```bash
-cd hw02_lucky_tickets/junior/LuckyTickets.Junior
-dotnet run
-```
-
-#### Middle Level
-- **Location:** `hw02_lucky_tickets/middle/`
-- Coming soon...
-
-#### Senior Level
-- **Location:** `hw02_lucky_tickets/senior/`
-- Coming soon...
-
 ## Requirements
 
 - .NET SDK 6.0 or higher
@@ -53,10 +25,6 @@ Each level has its own project folder with a complete solution. Navigate to the 
 ```bash
 dotnet run
 ```
-
-The program will display:
-- The count of lucky tickets
-- Execution time in milliseconds
 
 ## Learning Goals
 
