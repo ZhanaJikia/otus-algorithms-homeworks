@@ -43,13 +43,4 @@ What the code does (brief)
   - Checks each number from 2..n for primality by trial division up to x-1.
   - Simple but slow: O(n^2) time. Useful for demonstration; replace with sieve for production.
 
-Notes and next steps
-
-- If you want faster prime counting, replace `CountPrimesNaive` with the Sieve of Eratosthenes (O(n log log n)).
-- For Fibonacci of very large `n`, consider matrix exponentiation or fast doubling (O(log n)).
-
-If you want, I can:
-- Add unit tests or a `tests` folder and a small harness to validate more cases.
-- Replace `CountPrimesNaive` with a sieve implementation.
-- Add comments and inline diagrams for educational purposes.
 
