@@ -54,6 +54,9 @@ internal class Program
         Console.WriteLine($"Execution time: {stopwatch.ElapsedMilliseconds} ms");
     }
 
+    // Main logic: для каждой половинки билета считаем, 
+    // сколько вариантов цифр дают сумму s, а потом суммируем квадраты этих количеств
+    
     static long CountLuckyTickets(int N) 
     {
         // totals[s] = сколько N-значных половинок дают сумму s

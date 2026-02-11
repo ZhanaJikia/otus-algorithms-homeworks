@@ -357,7 +357,6 @@ Total = 1 + 4 + 9 + 16 + 25 + 36 + 49 + 64 + 81 + 100 + 81 + 64 + 49 + 36 + 25 +
 ## Running the Program
 
 ```bash
-cd hw02_lucky_tickets/middle/LuckyTickets.Middle
 
 # Create tests folder with test files
 mkdir -p tests
