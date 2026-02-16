@@ -54,8 +54,6 @@ Input sizes tested (example):
 - 20_000
 - 40_000
 
-A screenshot of the results table is attached in the homework submission.
-
 ---
 
 ## Conclusions
